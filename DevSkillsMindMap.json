@@ -1,0 +1,158 @@
+{
+	"root": {
+		"id": "htgrsohl",
+		"text": "DevSkills",
+		"layout": "map",
+		"children": [
+			{
+				"id": "hviyuosk",
+				"text": "Basic",
+				"side": "right",
+				"children": [
+					{
+						"id": "dmtcalcn",
+						"text": "OS",
+						"shape": "box",
+						"children": [
+							{
+								"id": "gmqpsaew",
+								"text": "Basic"
+							},
+							{
+								"id": "gbmlecpb",
+								"text": "Linux"
+							}
+						]
+					},
+					{
+						"id": "nacskitj",
+						"text": "Net",
+						"shape": "box",
+						"children": [
+							{
+								"id": "rirtdzya",
+								"text": "TCP/IP"
+							},
+							{
+								"id": "sjkseboc",
+								"text": "UDP"
+							},
+							{
+								"id": "ytadudpx",
+								"text": "HTTP"
+							}
+						]
+					},
+					{
+						"id": "zlibtwtf",
+						"text": "Algorithm",
+						"shape": "box",
+						"children": [
+							{
+								"id": "hmdyqzxo",
+								"text": "Basic"
+							},
+							{
+								"id": "jzijneji",
+								"text": "DataStructure"
+							}
+						]
+					},
+					{
+						"id": "nbhubsdo",
+						"text": "Shell",
+						"shape": "box"
+					}
+				]
+			},
+			{
+				"id": "binheemk",
+				"text": "BackEnd",
+				"side": "right",
+				"children": [
+					{
+						"id": "myujwojq",
+						"text": "Java",
+						"shape": "box",
+						"children": [
+							{
+								"id": "ufjkittz",
+								"text": "Basic",
+								"shape": "box",
+								"children": [
+									{
+										"id": "vskuvzud",
+										"text": "Collections"
+									},
+									{
+										"id": "nipvqeby",
+										"text": "Multi-Threads"
+									},
+									{
+										"id": "tqcpjena",
+										"text": "IO/NIO"
+									},
+									{
+										"id": "irnmovzs",
+										"text": "JVM"
+									},
+									{
+										"id": "mumnfpix",
+										"text": "Exceptions"
+									}
+								]
+							},
+							{
+								"id": "plhmchxx",
+								"text": "Framworks",
+								"shape": "box",
+								"children": [
+									{
+										"id": "opaytody",
+										"text": "Spring"
+									},
+									{
+										"id": "xokadfif",
+										"text": "SpringMVC"
+									},
+									{
+										"id": "uevquvlq",
+										"text": "Mybatis"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "aaydzrcu",
+						"text": "Python"
+					}
+				]
+			},
+			{
+				"id": "axprkkvr",
+				"text": "Database",
+				"side": "right",
+				"children": [
+					{
+						"id": "vejnsnse",
+						"text": "MySQL"
+					},
+					{
+						"id": "mlqsmivp",
+						"text": "Redis"
+					},
+					{
+						"id": "dztuwqdz",
+						"text": "MongoDB"
+					}
+				]
+			},
+			{
+				"id": "afnxqqhd",
+				"text": "FrontEnd",
+				"side": "right"
+			}
+		]
+	}
+}
